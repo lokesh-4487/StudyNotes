@@ -208,4 +208,4 @@ The project serves as a foundation for learning more advanced MERN stack concept
 
 <img width="1511" height="778" alt="Screenshot 2026-11-22 213849" src="https://github.com/user-attachments/assets/5acb2890-f46e-4c7a-a2c7-b5b02af7895c" />
 
-<img width="1902" height="943" alt="Screenshot 2026-11-22 213750" src="https://github.com/user-attachments/assets/1f6cd8c2-8c08-44c7-a977-bdb50cdada79" />
+
