@@ -204,3 +204,8 @@ StudyNotes is a practical full-stack web development project that demonstrates t
 
 The project serves as a foundation for learning more advanced MERN stack concepts and developing larger web applications. It also provides an opportunity to practice problem-solving, debugging, API integration, and database management through a working application.
 
+<img width="1893" height="891" alt="Screenshot 2026-11-22 213829" src="https://github.com/user-attachments/assets/0c09e8f7-a6d3-4ea6-ab2b-803e09f2e77f" />
+
+<img width="1511" height="778" alt="Screenshot 2026-11-22 213849" src="https://github.com/user-attachments/assets/5acb2890-f46e-4c7a-a2c7-b5b02af7895c" />
+
+<img width="1902" height="943" alt="Screenshot 2026-11-22 213750" src="https://github.com/user-attachments/assets/1f6cd8c2-8c08-44c7-a977-bdb50cdada79" />
